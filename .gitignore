@@ -1,4 +1,6 @@
 .env
-fun.cpp
 .vscode/
+
+fun.cpp //mischievous
+
 *.exe
